@@ -2,8 +2,5 @@
 It's a new project
 
 ```
-<p> This is some text</p>
+This is some text
 ```
-1. I
-2. am
-3. Guwahati
